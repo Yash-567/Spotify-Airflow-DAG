@@ -3,6 +3,7 @@
 This repository contains an Apache Airflow Directed Acyclic Graph (DAG) for interacting with the Spotify API. The DAG performs two main tasks:
 1. **Authorize User**: Obtains an access token from the Spotify API.
 2. **Get Playlist**: Retrieves the user's playlists using the obtained access token.
+![image](https://github.com/user-attachments/assets/77a82fd4-5c55-483d-9a34-8bf3d1ba226d)
 
 ## Setup
 
